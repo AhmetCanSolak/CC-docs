@@ -1,0 +1,17 @@
+site_name: ClearControl
+
+nav:
+    - 'Welcome': 'index.md'
+    - 'Docs':
+      - 'Docs/intro.md'
+      - 'Docs/modules.md'
+      - 'Devices':
+        - 'Docs/Devices/camera.md'
+        - 'Docs/Devices/laser.md'
+        - 'Docs/Devices/optomech.md'
+        - 'Docs/Devices/sensor.md'
+        - 'Docs/Devices/signalamp.md'
+        - 'Docs/Devices/signalgen.md'
+        - 'Docs/Devices/stage.md'
+    - 'Dev Docs':
+      - 'Dev_Docs/intro.md'
